@@ -41,6 +41,6 @@ graphicsmagick:
     vcpkg:
       packages: [graphicsmagick]
 libjsoncpp-dev:
-    windows:
-      vcpkg:
-        packages: [jsoncpp]
+  windows:
+    vcpkg:
+      packages: [jsoncpp]
